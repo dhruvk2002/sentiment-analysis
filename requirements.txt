@@ -1,0 +1,9 @@
+beautifulsoup4
+en_core_web_sm
+lxml
+numpy
+pandas
+scikit_learn
+spacy
+streamlit
+textblob
