@@ -1,5 +1,4 @@
 beautifulsoup4
-en_core_web_sm
 lxml
 numpy
 pandas
