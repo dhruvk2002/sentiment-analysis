@@ -12,22 +12,26 @@ The alogorithm which I have used is RandomForest along with vectorization and pr
 
 ## Getting Started
 
-### Prerequisites
+1. **Clone the repository:**
 
-Make sure you have Python installed. You can install the project dependencies using:
+   ```bash
+   git clone https://github.com/dhruvk2002/sentiment-analysis.git
 
-```bash
-  pip install -r requirements.txt
+2. **Navigate to  the Project Directory**
 
-### Training and Evaluation
+   ```bash
+   cd sentiment-analysis
 
-For training and testing kindly refer to the jupyter notebook "main.ipynb" for all the neccessary coding.
+3. **Install Dependencies**
 
-### Streamlit App
+   ```bash
+   pip install -r requirements.txt
 
-To the run the streamlit app consider running following command in your terminal
+4. **Run the streamlit app**
 
-```bash
-  ]streamlit run app.py
+   ```bash
+   streamlit run app.py
+
+
 
  
