@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentiment Analysis
 
 This project focuses on sentiment analysis using a Twitter dataset consisting of 50,000 tweets. The dataset is split into training and testing sets, with 80% used for training and 20% for testing. The sentiment analysis model achieved an accuracy of 90%.
 The alogorithm which I have used is RandomForest along with vectorization and preprocessing containing in a single machine learning pipeline
@@ -17,4 +17,17 @@ The alogorithm which I have used is RandomForest along with vectorization and pr
 Make sure you have Python installed. You can install the project dependencies using:
 
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
+
+### Training and Evaluation
+
+For training and testing kindly refer to the jupyter notebook "main.ipynb" for all the neccessary coding.
+
+### Streamlit App
+
+To the run the streamlit app consider running following command in your terminal
+
+```bash
+  ]streamlit run app.py
+
+ 
