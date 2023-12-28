@@ -5,6 +5,7 @@ The alogorithm which I have used is RandomForest along with vectorization and pr
 <div style="background-color: #ffcccc; padding: 10px; border: 1px solid #ff0000;">
   <strong>Note:</strong> If the deployed link is not working due to error in resources kindly prefer running locally using command mentioned below.
 </div>
+
 ## Project Structure
 
 - `data_process/`: It is custom made python module which consists of all the neccessary function for data preprocessing pipeline.
