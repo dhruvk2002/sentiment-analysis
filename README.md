@@ -1,7 +1,10 @@
 # Sentiment Analysis
 
 This project focuses on sentiment analysis using a Twitter dataset consisting of 50,000 tweets. The dataset is split into training and testing sets, with 80% used for training and 20% for testing. The sentiment analysis model achieved an accuracy of 90%.
-The alogorithm which I have used is RandomForest along with vectorization and preprocessing containing in a single machine learning pipeline
+The alogorithm which I have used is RandomForest along with vectorization and preprocessing containing in a single machine learning pipeline.
+<div style="background-color: #ffcccc; padding: 10px; border: 1px solid #ff0000;">
+  <strong>Note:</strong> If the deployed link is not working due to error in resources kindly prefer running locally using command mentioned below.
+</div>
 ## Project Structure
 
 - `data_process/`: It is custom made python module which consists of all the neccessary function for data preprocessing pipeline.
