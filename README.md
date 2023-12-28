@@ -6,7 +6,8 @@ The alogorithm which I have used is RandomForest along with vectorization and pr
   <strong>Note:</strong> If the deployed link is not working due to error in resources kindly prefer running locally using command mentioned below.
 </div>
 
-## Project Structure
+
+### Project Structure
 
 - `data_process/`: It is custom made python module which consists of all the neccessary function for data preprocessing pipeline.
 - `main.ipynb`: Jupyter notebook file with training history and results.
